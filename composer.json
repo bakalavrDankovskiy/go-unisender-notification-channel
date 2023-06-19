@@ -1,9 +1,8 @@
 {
-    "name": "bakalavrdankovskiy/go-unisender-notifications-channel",
+    "name": "bakalavrdankovskiy/go-unisender-notification-channel",
     "description": "GO Unisender Notifications Channel for Laravel",
     "type": "library",
     "license": "MIT",
-    "authors": [],
     "require": {
       "php" : ">=7.1",
       "illuminate/support" : "*",
@@ -20,7 +19,6 @@
       "NotificationChannels\\GoUnisender\\Tests\\" : "tests/"
     }
   },
-  "minimum-stability" : "dev",
   "extra" : {
     "laravel" : {
       "providers" : [
